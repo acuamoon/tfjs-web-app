@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tfjs-web-app/static/css/main.441d783a.chunk.css",
+    "main.js": "/tfjs-web-app/static/js/main.edbc8538.chunk.js",
+    "main.js.map": "/tfjs-web-app/static/js/main.edbc8538.chunk.js.map",
+    "runtime~main.js": "/tfjs-web-app/static/js/runtime~main.12d82480.js",
+    "runtime~main.js.map": "/tfjs-web-app/static/js/runtime~main.12d82480.js.map",
+    "static/css/2.6efdf584.chunk.css": "/tfjs-web-app/static/css/2.6efdf584.chunk.css",
+    "static/js/2.cd3c1c56.chunk.js": "/tfjs-web-app/static/js/2.cd3c1c56.chunk.js",
+    "static/js/2.cd3c1c56.chunk.js.map": "/tfjs-web-app/static/js/2.cd3c1c56.chunk.js.map",
+    "index.html": "/tfjs-web-app/index.html",
+    "precache-manifest.63c4d7ad1d26bf0348fdb8e230bd23c0.js": "/tfjs-web-app/precache-manifest.63c4d7ad1d26bf0348fdb8e230bd23c0.js",
+    "service-worker.js": "/tfjs-web-app/service-worker.js",
+    "static/css/2.6efdf584.chunk.css.map": "/tfjs-web-app/static/css/2.6efdf584.chunk.css.map",
+    "static/css/main.441d783a.chunk.css.map": "/tfjs-web-app/static/css/main.441d783a.chunk.css.map"
+  }
+}
